@@ -10,6 +10,6 @@ int HelloWorld()
 
 int main()
 {
-	int HelloWorld();
+	HelloWorld();
 	system("pause");
 }
